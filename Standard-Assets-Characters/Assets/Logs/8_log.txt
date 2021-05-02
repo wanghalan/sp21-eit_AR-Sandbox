@@ -1,0 +1,215 @@
+[10:30:49 PM] Player 8 game start
+[10:30:55 PM] w
+[10:30:55 PM] d
+[10:30:56 PM] s
+[10:30:56 PM] d
+[10:30:57 PM] w
+[10:31:01 PM] a
+[10:31:02 PM] space
+[10:31:02 PM] d
+[10:31:02 PM] a
+[10:31:14 PM] Virtual Player Wins
+[10:31:15 PM] a
+[10:31:15 PM] a
+[10:31:16 PM] a
+[10:31:53 PM] Player 8 game start
+[10:32:02 PM] w
+[10:32:03 PM] space
+[10:32:04 PM] space
+[10:32:04 PM] space
+[10:32:08 PM] w
+[10:32:08 PM] a
+[10:32:10 PM] space
+[10:32:10 PM] space
+[10:32:10 PM] space
+[10:32:11 PM] space
+[10:32:12 PM] space
+[10:32:12 PM] space
+[10:32:13 PM] space
+[10:32:13 PM] space
+[10:32:13 PM] space
+[10:32:14 PM] a
+[10:32:15 PM] space
+[10:32:15 PM] space
+[10:32:16 PM] space
+[10:32:18 PM] d
+[10:32:19 PM] space
+[10:32:19 PM] space
+[10:32:19 PM] a
+[10:32:20 PM] space
+[10:32:20 PM] space
+[10:32:21 PM] space
+[10:32:21 PM] space
+[10:32:21 PM] space
+[10:32:22 PM] space
+[10:32:22 PM] a
+[10:32:23 PM] space
+[10:32:23 PM] space
+[10:32:23 PM] space
+[10:32:24 PM] space
+[10:32:24 PM] space
+[10:32:24 PM] space
+[10:32:25 PM] space
+[10:32:26 PM] a
+[10:32:27 PM] space
+[10:32:27 PM] Virtual Player Wins
+[10:32:28 PM] space
+[10:32:28 PM] space
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:30 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:31 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:32 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:33 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:34 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:35 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:36 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins
+[10:32:37 PM] Virtual Player Wins

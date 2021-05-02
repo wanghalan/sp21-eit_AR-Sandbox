@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using System.IO;
+using System.Threading.Tasks;
 
 namespace StandardAssets.Characters.ThirdPerson
 {
@@ -21,6 +23,8 @@ namespace StandardAssets.Characters.ThirdPerson
         public ThirdPersonInput thirdPersonInput;
         private bool playerWon;
         public float timeRemaining = 100;
+        public int playerNum = 1;
+        public GameObject playerObject;
 
         // Start is called before the first frame update
         void Start()
@@ -28,6 +32,7 @@ namespace StandardAssets.Characters.ThirdPerson
             if (GameMaster.Instance == null)
             {
                 _instance = this;
+                WriteEvent("Player " + playerNum + " game start");
             }
             else
             {
@@ -37,27 +42,80 @@ namespace StandardAssets.Characters.ThirdPerson
             playerWon = false;
         }
 
+
         // Update is called once per frame
         void Update()
         {
             if (timeRemaining > 0)
             {
+                KeyLogger();
                 CountDown();
             }else{
 
             }
+            //WriteString("Player " + playerNum + " game updates");
+            if (playerObject.transform.position.y < -200)
+            {
+                EndGame(true);
+            }
         }
 
+        public void KeyLogger()
+        {
+            if (Input.GetKeyDown("w"))
+            {
+                WriteEvent("w");
+            }
+            if (Input.GetKeyDown("a"))
+            {
+                WriteEvent("a");
+            }
+            if (Input.GetKeyDown("s"))
+            {
+                WriteEvent("s");
+            }
+            if (Input.GetKeyDown("d"))
+            {
+                WriteEvent("d");
+            }
+            if (Input.GetKeyDown("space"))
+            {
+                WriteEvent("space");
+            }
+            if (Input.GetKeyDown("r"))
+            {
+                WriteEvent("r");
+            }
+        }
+
+        public void WriteEvent(string s)
+        {
+            // Write string to file
+            string filepath = Application.dataPath + "/Logs/" + playerNum + "_log.txt";
+            Debug.Log("File path: " + filepath);
+            using (StreamWriter sw = File.AppendText(filepath))
+            {
+                string timestamp = System.DateTime.Now.ToString("h:mm:ss tt");
+                sw.WriteLine("[" + timestamp + "] " + s);
+                //Debug.Log("writing: " + s);
+            }
+        }
+        
         public void EndGame(bool playerWins){
             Debug.Log("Disabling input");
             thirdPersonInput.enabled = false;
             playerWon = playerWins;
 
+
             if (playerWon)
             {
                 textDisplay.text = "Virtual Player Wins";
-            }else{
+                WriteEvent("Virtual Player Wins");
+            }
+            else
+            {
                 textDisplay.text = "Physical Player Wins";
+                WriteEvent("Physical Player Wins");
             }
         }
 
