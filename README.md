@@ -15,3 +15,10 @@
 ---
 - [Microsoft Kinect2](https://developer.microsoft.com/en-us/windows/kinect/)
 - [EM River 4](https://emriver.com/models/em4/)
+
+## Contributors
+---
+- Xun Liu (@xunliuDesign)
+- Nidhi Manu (@NidhiManu)
+- Nichole Chheng (@nicolechheng)
+- Alan Wang (@yaoeh)
