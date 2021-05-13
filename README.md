@@ -4,7 +4,7 @@
 ---
 - [Project Proposal](https://www.overleaf.com/read/wgnyqnknmmcm)
 - [Final Project Presentation](https://docs.google.com/presentation/d/1sEQX8oWIWI3VvAlZOpVMlpWuZyBj77bkUjClbHFpCE8/edit?usp=sharing)
-- Final Project Report (In progress)
+- [Final Project Report](https://www.overleaf.com/read/rnbfvvnfvztt)
 
 ### Software
 ---
