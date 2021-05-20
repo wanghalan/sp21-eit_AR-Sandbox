@@ -22,7 +22,7 @@ _Project created for the [Engineering Interactive Technologies](https://seongkoo
 - [Microsoft Kinect2](https://developer.microsoft.com/en-us/windows/kinect/)
 - [EM River 4](https://emriver.com/models/em4/)
 
-## Contributors
+### Contributors
 ---
 - Xun Liu (@xunliuDesign)
 - Nidhi Manu (@NidhiManu)
